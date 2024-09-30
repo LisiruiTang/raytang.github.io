@@ -73,15 +73,11 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
         percent: 100
-        icon: devicon/rstudio
+        icon: devicon/python
       - name: PyTorch
         description: ''
-        percent: 40
+        percent: 70
         icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
@@ -102,11 +98,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
