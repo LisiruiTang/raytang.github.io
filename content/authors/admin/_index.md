@@ -6,12 +6,12 @@ title: Ray Tang
 #name_pronunciation: Lisirui Tang
 
 # Full name (for SEO)
-first_name: Lisirui
+first_name: Ray
 last_name: Tang
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+  #icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
