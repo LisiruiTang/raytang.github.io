@@ -3,7 +3,7 @@
 title: Ray Tang
 
 # Name pronunciation (optional)
-name_pronunciation: Lisirui Tang
+#name_pronunciation: Lisirui Tang
 
 # Full name (for SEO)
 first_name: Lisirui
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: AI/LLMs and Climate Change Researcher, Co-founder of Technology company，The 28th United Nations Climate Conference‘s Youth representative
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
