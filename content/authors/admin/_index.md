@@ -65,8 +65,8 @@ work:
       Responsibilities include:
       - Engaged in the AIGC project Doubao, which has achieved 25 million installations, scrutinizing more than 10, 000 training data entries per day for LLM, ensuring the integrity of the data. I employed Python and SQL for data quality, consistency checking, and quantitative analysis of words, adopting statistical methods to boost the company's operational efficiency by roughly 50%. 
       - Contributed to synthetic data capabilities and rule formulation of LLM data, including prompt data generation, personalization rule development for SFT data, and product workflow.
-lit
 
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
