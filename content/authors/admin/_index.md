@@ -17,7 +17,7 @@ last_name: Tang
 superuser: true
 
 # Role/position/tagline
-role: AI/LLMs and Climate Change Researcher, Co-founder of Technology company，The 28th United Nations Climate Conference‘s Youth representative
+role: AI/LLMs and Climate Change Researcher, Co-founder of Technology company
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
