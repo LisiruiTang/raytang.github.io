@@ -53,8 +53,7 @@ work:
     date_end: 2023-12-31
     summary: |2-
       Responsibilities include:
-      - Under my mentor's guidance, a Senior Principal Researcher at Microsoft, I have actively contributed to pioneering the application of Large Language Models (LLMs) such as ChatGPT across diverse domains. Notably, we harnessed ChatGPT to produce over 200,000 PowerPoint outlines for OfficePlus in more than 20 different fields. 
-      - We researched the application of large language models in the field of climate change. Through techniques like fine-tuning, we trained AI for Science to distinguish it from generic large language models.
+      - Under my mentor's guidance, a Senior Principal Researcher at Microsoft, I have actively contributed to pioneering the application of Large Language Models (LLMs) 
   - position: Prompt Engineering Team
     company_name: TIKTOK's parent company ByteDance
     company_url: ''
@@ -63,7 +62,7 @@ work:
     date_end: 2023-08-31
     summary: |
       Responsibilities include:
-      - Engaged in the AIGC project Doubao, which has achieved 25 million installations, scrutinizing more than 10, 000 training data entries per day for LLM, ensuring the integrity of the data. I employed Python and SQL for data quality, consistency checking, and quantitative analysis of words, adopting statistical methods to boost the company's operational efficiency by roughly 50%. 
+      - Engaged in the AIGC project Doubao, which has achieved 25 million installations, scrutinizing more than 10, 000 training data entries per day for LLM, ensuring the integrity of the data. 
       - Contributed to synthetic data capabilities and rule formulation of LLM data, including prompt data generation, personalization rule development for SFT data, and product workflow.
 
 
