@@ -40,10 +40,7 @@ education:
     institution: University of Liverpool
     date_start: 2020-09-01
     date_end: 2024-07-31
-  - area: Bachelor of Engineering in Data Science and Big Data Technology
-    institution: Xi’an Jiaotong–Liverpool University
-    date_start: 2020-09-01
-    date_end: 2024-07-31
+
 work:
   - position: DKI Group R&D Team Member
     company_name: Microsoft Search Technology Center (STCA)
